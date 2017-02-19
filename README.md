@@ -1,3 +1,7 @@
-# Custom Post Type Plugin and ACF Pro export for ULM
+# derek.slate.cpt
+
+* Custom post type plugin
+* ACF Export 
+* Blade template variables
 
 That's all!
